@@ -15,7 +15,7 @@ public class Class27NumeroNarcisista {
         }
         System.out.println("Fin de programa");
     }
-
+    
     public static boolean evaluarNarcisista(int numero){
         String dato = String.valueOf(numero);
         int longitud = dato.length();
